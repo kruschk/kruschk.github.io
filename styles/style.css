@@ -1,4 +1,14 @@
+html {
+    background: grey;
+    font-family: monospace;
+}
+
+.title {
+}
+
 .title span {
-    border: 0.2rem solid black;
+    background: black;
+    border-radius: 10px;
+    color: white;
     padding: 0.5rem;
 }
